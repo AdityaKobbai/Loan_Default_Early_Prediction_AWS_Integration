@@ -59,7 +59,7 @@ Detailed steps to set up the project locally:
 
 2. Navigate to the project directory and install the dependencies:
     ```bash
-    cd Machine-Learning-Based-Loan-Default-Early-Warning-System
+    cd Loan_Default_Early_Prediction_AWS_Integration
     pip install -r requirements.txt
     ```
 
