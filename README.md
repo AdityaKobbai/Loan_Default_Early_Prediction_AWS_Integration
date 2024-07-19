@@ -2,6 +2,12 @@
 
 Welcome to the repository for my advanced machine learning project focused on predicting loan defaults. This project leverages a robust, scalable architecture deployed on AWS to deliver precise default predictions, helping financial institutions mitigate risks and avoid significant losses.
 
+<img width="600" alt="resources_all" src="<img width="1006" alt="Screenshot 2024-07-18 at 9 10 31 PM" src="https://github.com/user-attachments/assets/19e83ee0-9100-4600-8790-302e65a1209c">">
+
+<img width="600" alt="resources_all" src="<img width="826" alt="Screenshot 2024-07-18 at 9 09 24 PM" src="https://github.com/user-attachments/assets/b2bdc6db-a117-4605-90cf-cd6ad0723b31">">
+
+
+
 ## Project Overview
 
 This project encompasses the full cycle of data handling, model development, and deployment, utilizing AWS cloud capabilities to enhance predictive accuracy and operational efficiency.
